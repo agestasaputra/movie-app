@@ -2,6 +2,14 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+# Build with
+
+- Nuxt 3 (https://nuxt.com/docs/getting-started/installation)
+- Tailwind CSS (https://tailwindcss.com/)
+- Eslint flat configutation - Antfu (https://github.com/antfu/eslint-config)
+- Typescript (https://nuxt.com/docs/guide/concepts/typescript)
+- Prettier (https://prettier.io/)
+
 ## Setup
 
 Make sure to install dependencies:
